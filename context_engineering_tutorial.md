@@ -1,6 +1,6 @@
 # Complete Guide to Context Engineering for AI Agents
 
-This tutorial covers the material presented in this video [Context Engineering Clearly Explained](https://www.youtube.com/watch?v=jLuwLJBQkIs)
+<!-- This tutorial covers the material presented in this video [Context Engineering Clearly Explained](https://www.youtube.com/watch?v=jLuwLJBQkIs) -->
 
 ## Table of Contents
 1. [What is Context Engineering?](#what-is-context-engineering)

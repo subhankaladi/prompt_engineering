@@ -1,6 +1,6 @@
 # The Complete AI Prompting Framework: 6-Step Formula for 10x Better Results
 
-This Tutorial is based on the following video [How To Prompt ChatGPT The RIGHT WAY In 2025 (you're doing it wrong)](https://www.youtube.com/watch?v=pv_sAnH_P8Q)
+<!-- This Tutorial is based on the following video [How To Prompt ChatGPT The RIGHT WAY In 2025 (you're doing it wrong)](https://www.youtube.com/watch?v=pv_sAnH_P8Q) -->
 
 Most people are using AI like ChatGPT entirely wrong. They ask broken questions in new chats without proper context, missing out on AI's true potential. This tutorial will teach you the complete prompting framework that can 10x your productivity and help you get professional-level results from any AI tool.
 
