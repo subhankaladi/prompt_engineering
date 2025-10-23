@@ -233,7 +233,7 @@ Summary:
 
 Provide multiple examples to establish a clear pattern.
 
-**Example:**
+**Example 1:**
 ```
 Convert customer feedback to structured data:
 
@@ -246,7 +246,33 @@ JSON: {"service": "positive", "food": "positive", "overall": "positive"}
 Feedback: "Terrible food and rude staff"
 JSON:
 ```
+**Example 2:**
+```
+Tone Conversion (Formal to Casual):
+Rewrite the text in a more casual tone.
 
+Formal: "I would like to inform you that our meeting has been postponed."
+Casual: "Hey, just letting you know the meeting’s been pushed back."
+
+Formal: "Please submit your report by the end of the week."
+Casual: "Make sure to send your report by this weekend."
+
+Formal: "We appreciate your cooperation in this matter."
+Casual:
+```
+**Example 3:**
+```
+Identify the emotion in the following sentences.
+
+Sentence: "I can’t believe I finally did it!"
+Emotion: Excited
+
+Sentence: "I miss my friends so much."
+Emotion: Sad
+
+Sentence: "You always ruin everything!"
+Emotion:
+```
 **Best practices:**
 - Use 3-5 examples for most tasks
 - Include diverse examples
