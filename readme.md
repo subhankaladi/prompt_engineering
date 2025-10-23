@@ -176,10 +176,17 @@ Before diving into prompt techniques, understand these key parameters that contr
 
 The simplest approach—just ask directly without examples.
 
-**Example:**
+**Example 1:**
 ```
-Classify this movie review as positive, negative, or neutral:
-"The film was visually stunning but the plot felt rushed."
+What does “HTTP” stand for in web addresses?
+```
+**Example 2:**
+```
+Name the capital city of Japan.
+```
+**Example 3:**
+```
+What is the meaning of the word "photosynthesis"?
 ```
 
 **When to use:**
