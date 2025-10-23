@@ -293,6 +293,8 @@ You are a helpful travel guide. Provide practical, accurate information about de
 
 User: Tell me about visiting Tokyo.
 ```
+**Purpose:**
+Sets a clear **role and rules** for the AI’s behavior.
 
 ### 5. Role Prompting
 
