@@ -341,6 +341,15 @@ Context: You're writing for a tech blog aimed at beginners who have never coded 
 
 Write a 200-word explanation of what an API is, using simple language and practical examples.
 ```
+**Example:**
+```
+Here are the student’s last 3 lessons:
+Variables
+Loops
+Functions
+
+User: "Explain what decorators are."
+```
 
 ## Advanced Prompting Strategies
 
