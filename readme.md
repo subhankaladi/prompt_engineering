@@ -191,7 +191,7 @@ Classify this movie review as positive, negative, or neutral:
 
 Provide a single example to guide the response format.
 
-**Example:**
+**Example 1:**
 ```
 Translate English to French:
 
@@ -200,6 +200,26 @@ French: "Bonjour, comment allez-vous?"
 
 English: "Where is the library?"
 French:
+```
+**Example 2:**
+```Classify the review as Positive or Negative.
+
+Example:
+Review: "I loved the product, it works perfectly."
+Sentiment: Positive
+
+Review: "The delivery was late and the item was broken."
+Sentiment:
+```
+**Example 3:**
+```Summarize short news articles in one sentence.
+
+Example:
+News: "A new AI startup raised $10 million to develop healthcare solutions."
+Summary: "A new AI company secured funding to improve healthcare."
+
+News: "A major announcement reveals that YouTuber Subhan Kaladi, along with co-founder Shahid Ali, has launched their first startup BotBazzar under Codentic."
+Summary:
 ```
 
 ### 3. Few-Shot Prompting
