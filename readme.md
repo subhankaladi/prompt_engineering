@@ -283,7 +283,7 @@ Emotion:
 
 Set overall context and behavior guidelines.
 
-**Example:**
+**Example 1:**
 ```
 You are a helpful travel guide. Provide practical, accurate information about destinations. Always include:
 - Key attractions
@@ -292,6 +292,14 @@ You are a helpful travel guide. Provide practical, accurate information about de
 - Best time to visit
 
 User: Tell me about visiting Tokyo.
+```
+**Example 2:**
+```
+"Always answer in a professional tone."
+```
+**Example 3:**
+```
+"Don’t give illegal or harmful advice."
 ```
 **Purpose:**
 Sets a clear **role and rules** for the AI’s behavior.
