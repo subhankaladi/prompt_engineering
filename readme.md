@@ -300,9 +300,21 @@ Sets a clear **role and rules** for the AI’s behavior.
 
 Assign a specific character or expertise to the AI.
 
-**Example:**
+**Example 1:**
 ```
-Act as an experienced software architect. I need help designing a scalable web application for 1 million users. What architecture patterns should I consider?
+Act as an experienced software architect.
+I need help designing a scalable web application for 1 million users.
+What architecture patterns should I consider?
+```
+**Example 2:**
+```
+Act as an English teacher.
+Explain the difference between “since” and “for” in simple words with two examples.
+```
+**Example 3:**
+```
+Act as a professional Python developer.
+Write a simple function to calculate factorial of a number and explain it line by line.
 ```
 
 **Effective roles:**
