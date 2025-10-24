@@ -442,6 +442,7 @@ Now, using those principles, redesign this mobile app's login screen: [descripti
 ```
 
 **Example:**
+```
 Step 1: What are the general ways to improve a website’s loading speed?
 
 Step 2: Using those principles, how can I speed up a clothing store website built with Next.js?
@@ -455,7 +456,27 @@ Step-Back Prompting involves first asking a broader, foundational question to es
 
 Combine reasoning with tool use or actions.
 
-**Example 1:**
+**Example:**
+
+User:
+```
+Use the ReAct pattern to answer the following:
+I need the population of Canada and Australia to compare.
+```
+
+AI’s Response (ReAct style):
+```
+Thought: I need the population of Canada and Australia to compare.
+Action: web_search("current population of Canada 2025")
+Observation: [Canada ≈ 39 million]
+Thought: Now search for Australia.
+Action: web_search("current population of Australia 2025")
+Observation: [Australia ≈ 27 million]
+Final Answer: Canada has about 12 million more people than Australia.
+
+```
+
+**Example:**
 ```
 I need to find out how many children the members of Metallica have in total.
 
@@ -465,7 +486,7 @@ Observation: [results]
 Thought: Now I need to search for each member individually...
 ```
 
-**Example 2:**
+**Example:**
 ```
 Question: What is the current population of Tokyo, and how does it compare to New York City?
 
