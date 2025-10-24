@@ -359,6 +359,21 @@ Encourage step-by-step reasoning for complex problems.
 
 **Example:**
 ```
+Solve step by step:
+If one biryani plate costs 250 PKR, how much will 5 friends pay together if they order 2 plates each?
+
+Let's think step by step.
+```
+**Example:**
+```
+Solve step by step:
+If I need to study 6 subjects in 12 days equally, how many days should I give to each subject?
+
+Let's think this through step by step.
+```
+
+**Example:**
+```
 Solve this step by step:
 If I was 6 when my sister was half my age, how old is my sister when I'm 40?
 
