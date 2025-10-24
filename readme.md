@@ -420,8 +420,7 @@ Generate 3 reasoning paths and pick the most common result.
 ```
 
 **Explanation of Concept:**
-Self-Consistency involves generating multiple answers to the same question using varied reasoning approaches to ensure reliability. By comparing the results, you select the most frequent or consistent outcome, reducing the chance of errors from a single flawed reasoning path. This method leverages the model's ability to approach the problem from different angles, increasing confidence in the final answer when all paths converge, as seen here with the consistent result of $40.
-
+Self-Consistency involves generating multiple answers to the same question using varied reasoning approaches to ensure reliability. By comparing the results, you select the most frequent or consistent outcome, reducing the chance of errors from a single flawed reasoning path.
 ### Step-Back Prompting
 
 Ask a more general question first, then use that context for the specific question.
