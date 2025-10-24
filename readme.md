@@ -525,11 +525,10 @@ Explore multiple reasoning branches simultaneously for complex problems.
 
 
 **Example:**
-
+```
 Question: What is the best marketing strategy for launching a new eco-friendly clothing brand targeting young adults?
-
 Task: Explore multiple strategic approaches, evaluate them, and select the best one.
-
+```
 **Branch 1: Social Media Campaign**
 Thought: Young adults are active on platforms like Instagram and TikTok. A campaign using influencers could build brand awareness.
 Exploration:
@@ -555,6 +554,20 @@ Evaluation: Effective for niche targeting but requires careful partner selection
 
 Final Strategy: Launch with a TikTok influencer campaign showcasing eco-friendly clothing, paired with pop-up shops at green festivals to engage young adults directly. Collaborate with a sustainable accessory brand to co-promote at events.
 
+**Example:**
+```
+Plan a 10-day Canada trip on a medium budget.
+Generate 3 different travel approaches (Branch A, B, C). For each branch:
+- Short description (1 line)
+- Key activities (3 bullets)
+- Pros and cons (2 each)
+- Score out of 10 (based on cost, experience, ease)
+Finally, recommend one branch and explain why.
+```
+**Example:**
+```
+Plan a 10-day Canada trip on a medium budget using ToT
+```
 
 **Explanation of Concept:**
 Tree of Thoughts (ToT) involves generating multiple reasoning branches to explore different solutions to a problem, evaluating each, and synthesizing the best ideas into a final answer. Each branch represents a distinct approach, which is explored, assessed for pros and cons, and scored. This method is ideal for complex, open-ended tasks like strategic planning, as it encourages creative exploration and systematic comparison, as shown in the marketing strategy example above.
