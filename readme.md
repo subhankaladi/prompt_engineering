@@ -405,14 +405,18 @@ Generate multiple reasoning paths and select the most common answer.
 Question: If a store offers a 20% discount on a $50 item, what is the final price?
 
 Generate 3 different reasoning paths for this question and select the most consistent answer.
+```
+**Example:**
+```
+Question: A burger costs 500 PKR and there is a 10% discount.
 
-Path 1: To find the final price, calculate the discount: 20% of $50 is 0.20 × 50 = $10. Subtract this from the original price: $50 - $10 = $40. The final price is $40.
+Generate 3 different reasoning paths to find the final price, and then tell the most common answer.
+```
+**Example:**
+```
+Find the average marks of a student who scored 60, 70, 80 in 3 tests.
 
-Path 2: A 20% discount means paying 80% of the original price. So, 80% of $50 is 0.80 × 50 = $40. Therefore, the final price is $40.
-
-Path 3: Compute the discount amount: 20% = 0.20, so 0.20 × $50 = $10 off. The original price is $50, so after the discount, it’s $50 - $10 = $40. The final price is $40.
-
-Most common answer: $40
+Generate 3 reasoning paths and pick the most common result.
 ```
 
 **Explanation of Concept:**
