@@ -425,7 +425,14 @@ Self-Consistency involves generating multiple answers to the same question using
 
 Ask a more general question first, then use that context for the specific question.
 
-**Example 1:**
+**Example:**
+```
+Step 1: What are the main factors that make a restaurant successful?
+
+Step 2: Based on those, give me a plan for launching a biryani restaurant in Karachi.
+```
+
+**Example:**
 ```
 First, what are the key principles of good user interface design?
 
@@ -434,27 +441,10 @@ First, what are the key principles of good user interface design?
 Now, using those principles, redesign this mobile app's login screen: [description]
 ```
 
-**Example 2:**
-Question: How should I optimize the loading speed of my e-commerce website?
-```
-Step 1: First, what are the key factors that generally affect website loading speed?
+**Example:**
+Step 1: What are the general ways to improve a website’s loading speed?
 
-Response: Key factors include:
-- Server response time (hosting quality, server location)
-- Image and asset optimization (file size, compression)
-- Code efficiency (minifying CSS/JavaScript, reducing HTTP requests)
-- Caching strategies (browser caching, CDNs)
-- Third-party scripts (ads, analytics)
-
-Step 2: Using these factors, provide specific recommendations to optimize the loading speed of an e-commerce website with heavy product images and multiple third-party plugins.
-
-Response:
-1. **Server Optimization**: Choose a reliable hosting provider with servers close to your audience. Enable server-side caching (e.g., Redis or Varnish).
-2. **Image Optimization**: Compress product images using formats like WebP. Implement lazy loading to defer off-screen images.
-3. **Code Efficiency**: Minify CSS and JavaScript files. Combine small files to reduce HTTP requests.
-4. **Caching**: Use a Content Delivery Network (CDN) like Cloudflare to cache static content globally. Set browser cache headers for repeat visitors.
-5. **Third-Party Plugins**: Audit and remove unnecessary plugins. Asynchronously load scripts for analytics or ads to avoid blocking page rendering.
-
+Step 2: Using those principles, how can I speed up a clothing store website built with Next.js?
 ```
 
 **Explanation of Concept:**
