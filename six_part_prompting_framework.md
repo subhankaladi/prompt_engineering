@@ -32,6 +32,8 @@ Give me investing advice
 ```
 Recommend a diversified investment strategy for a moderate risk investor saving for a home within 5 years
 ```
+---------
+
 **Bad Prompt (Weak Command):**
 ```
 Give me a website for a clothing store.
@@ -66,6 +68,23 @@ Recommend an investment strategy for a 32-year-old with moderate risk tolerance,
 - **Who:** Age, profession, experience level, situation
 - **What:** Specific goal, constraints, requirements
 - **When:** Timeline, deadlines, urgency
+
+-------
+
+**Bad Prompt (No Context):**
+
+```
+Design a website for my clothing brand.
+```
+**Good Prompt (Rich Context):**
+
+```
+Design a modern dark-themed e-commerce website for Munna Garments, a local Pakistani clothing brand specializing in shirts, pants, and hoodies for young adults aged 18–30.
+```
+**The Rule of Three Framework:**
+- **Who:** A small Pakistani fashion retailer targeting youth aged 18–30
+- **What:** Wants a stylish e-commerce website with black & orange theme, focus on clothing sales
+- **When:** Needs the design ready within 2 weeks for launch
 
 **Context Scaling:**
 - Simple requests (restaurant recommendation): Minimal context needed
