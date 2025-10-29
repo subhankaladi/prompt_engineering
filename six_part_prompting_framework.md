@@ -32,6 +32,15 @@ Give me investing advice
 ```
 Recommend a diversified investment strategy for a moderate risk investor saving for a home within 5 years
 ```
+**Bad Prompt (Weak Command):**
+```
+Give me a website for a clothing store.
+```
+**Good Prompt (Strong Command):**
+```
+Design a responsive dark-themed e-commerce website for
+Codentic Garments, a clothing brand that sells shirts, pants, and hoodies.
+```
 
 **Key Principles:**
 - Use strong action verbs: analyze, create, design, recommend, generate, evaluate
