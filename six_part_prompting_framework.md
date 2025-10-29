@@ -79,7 +79,7 @@ Design a website for my clothing brand.
 **Good Prompt (Rich Context):**
 
 ```
-Design a modern dark-themed e-commerce website for Munna Garments, a local Pakistani clothing brand specializing in shirts, pants, and hoodies for young adults aged 18–30.
+Design a modern dark-themed e-commerce website for Codentic Garments, a local Pakistani clothing brand specializing in shirts, pants, and hoodies for young adults aged 18–30.
 ```
 **The Rule of Three Framework:**
 - **Who:** A small Pakistani fashion retailer targeting youth aged 18–30
