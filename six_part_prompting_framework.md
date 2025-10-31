@@ -174,7 +174,7 @@ Format your answer with:
 
 **❌ Bad Example 1:**
 
-- Give me the website details in any format.
+Give me the website details in any format.
 - Why it’s bad:
 - Doesn’t guide AI on how to organize information.
 - AI may mix everything in one paragraph.
