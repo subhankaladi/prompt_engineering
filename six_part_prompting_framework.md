@@ -166,11 +166,11 @@ experience in e-commerce UX/UI for fashion brands.
 
 **Good Example:**
 Format your answer with:
-Header Design (Logo + Nav)
-Hero Section (Main Message + CTA)
-Features Section (3 Columns with Icons)
-Testimonials (Carousel Layout)
-Contact Form (Minimalistic Style)
+- Header Design (Logo + Nav)
+- Hero Section (Main Message + CTA)
+- Features Section (3 Columns with Icons)
+- Testimonials (Carousel Layout)
+- Contact Form (Minimalistic Style)
 
 **❌ Bad Example 1:**
 
