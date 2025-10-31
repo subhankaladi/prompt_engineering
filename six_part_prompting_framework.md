@@ -148,6 +148,12 @@ You are a certified financial advisor with 15 years of experience specializing i
 - **Technology:** "Senior software architect with 10 years in enterprise systems"
 - **Legal:** "Corporate lawyer with 10 years experience in contract law"
 
+**Good Example:**
+```
+You are a senior front-end web designer with 10 years of
+experience in e-commerce UX/UI for fashion brands.
+```
+
 **Style and Tone Modifiers:**
 - "Be brutally honest and conservative in your advice"
 - "Take a creative and innovative approach"
@@ -157,6 +163,22 @@ You are a certified financial advisor with 15 years of experience specializing i
 ### 5. Formatting: Structure for Success
 
 **The Goal:** Organize information in a way that's immediately useful and actionable.
+
+**Good Example:**
+Format your answer with:
+Header Design (Logo + Nav)
+Hero Section (Main Message + CTA)
+Features Section (3 Columns with Icons)
+Testimonials (Carousel Layout)
+Contact Form (Minimalistic Style)
+
+**❌ Bad Example 1:**
+
+- Give me the website details in any format.
+- Why it’s bad:
+- Doesn’t guide AI on how to organize information.
+- AI may mix everything in one paragraph.
+- Hard to read or reuse later.
 
 **Example Structure:**
 ```
