@@ -112,7 +112,9 @@ Color palette and typography recommendations.
 ```
 
 **❌ Bad Example 1:**
-`` Make a website layout ```
+```
+Make a website layout
+```
 
 **Why it’s bad:**
 - No structure or order.
