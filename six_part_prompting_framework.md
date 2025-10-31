@@ -102,6 +102,23 @@ Design a modern dark-themed e-commerce website for Codentic Garments, a local Pa
 List the asset categories, explain the percent allocation for each, and briefly justify the rationale behind each choice
 ```
 
+**Good Example:**
+```
+Provide the design in this structure:
+Homepage layout (hero, products, CTA)
+Product page wireframe
+Checkout flow
+Color palette and typography recommendations.
+```
+
+**❌ Bad Example 1:**
+`` Make a website layout ```
+
+**Why it’s bad:**
+- No structure or order.
+- AI doesn’t know what sections or components to include.
+- Results will be random and incomplete.
+
 **Advanced Formatting Options:**
 - "Format this as a screenshotable Apple Notes format"
 - "Give me a copy-and-pasteable asset I can send to my partner"
